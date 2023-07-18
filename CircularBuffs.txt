@@ -1,0 +1,8 @@
+## Title: CircularBuffs
+## Description: CircularBuffs Version 1.0
+## APIVersion: 100008
+## OptionalDependsOn: LibStub
+## DependsOn: LibAddonMenu-2.0
+## SavedVariables: CircularBuffsVariables
+ 
+CircularBuffs.lua
